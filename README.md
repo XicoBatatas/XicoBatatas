@@ -1,4 +1,4 @@
-<h2>Olá sou o batata!</h2>
+### Olá sou o batata!
 
 - 👋 Hi, I’m @tababa61
 - 👀 I’m interested in ...
