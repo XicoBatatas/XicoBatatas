@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Francisco Oliveira
 
 - 💻 A estudar desenvolvimento WEB!
+- 😍 Adoro tecnologia!
 
 <!---
 tababa61/tababa61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
