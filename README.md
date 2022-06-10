@@ -11,11 +11,13 @@ Olá! Meu nome é Francisco Oliveira!
 - 🛠 A trabalhar num visual novo para o meu perfil!
 </p>
 
+<h3 align='center'>
+💻 My Workspace!
+</h3>
+
 <p align='center'>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+<img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-<!---
-tababa61/tababa61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
